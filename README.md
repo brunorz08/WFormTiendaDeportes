@@ -1,7 +1,7 @@
 # WFormTiendaDeportes
 
 
-Aplicacion Windows Forms que consiste en visualizar el stock de productos de una tienda. Se pueden cargar y eliminar objetos. Estos se guardan en una base de datos en forma local que contiene dos tablas relaciones.
+Aplicacion Windows Forms que consiste en visualizar el stock de los productos de una tienda. Se pueden cargar y eliminar objetos. Estos se guardan en una base de datos en forma local que contiene dos tablas relaciones.
 
 
 
