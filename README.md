@@ -1,5 +1,7 @@
 # WFormTiendaDeportes
-# WinFormTiendaDeportes Aplicacion Windows Forms que consiste en una Casa de deportes. Se pueden cargar objetos y estos se guardan en una base de datos en forma local. 
+
+
+Aplicacion Windows Forms que consiste en visualizar el stock de productos de una tienda. Se pueden cargar y eliminar objetos. Estos se guardan en una base de datos en forma local que contiene dos tablas relaciones.
 
 
 
